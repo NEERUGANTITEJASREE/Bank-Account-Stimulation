@@ -1,4 +1,4 @@
-# Bank-Account-Stimulation
+# Bank-Account-Simulation
 # 🏦 Java Bank Account Simulation
 
 ## 📌 Description
